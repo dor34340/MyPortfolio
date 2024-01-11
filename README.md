@@ -1,5 +1,4 @@
 # MyPortfolio
-My Data Analytics Portfolio
 Hello and welcome to my Data Analytics Portfolio!
 My name is Dor Goldstein abd I'm an upcoming Data Analyst!
 
